@@ -1,4 +1,4 @@
-# 💫 About-Rahul# 💫 About Me:
+# 💫 About-Rahul
 - A Data Analyst trained in analyzing data to identify trends, patterns, and areas for improvement with extensive experience of Python,SQL, Advanced Excel, Tableau.<br>- An adherent of Data Driven approach with hands-on experience in Python & ML algorithms and possessing proficient knowledge of Linear Algebra, Advanced Statistics.<br>
 
 
