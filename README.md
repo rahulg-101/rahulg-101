@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Implementing data science, machine learning and AI projects who has 5 years of professional experience.<br>My professional experience includes working in domains such as finance, ed-tech and ad-tech as a data analyst.<br>
+I am currently working on Implementing data science, machine learning and AI projects who has 5 years of professional experience.<br>My professional experience includes working in domains such as consulting, ed-tech, and advertisement-tech as a data scientist & analyst.<br>
 
 
 ## 🌐 Socials:
